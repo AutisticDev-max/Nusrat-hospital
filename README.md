@@ -2,6 +2,8 @@ Nusrat Hospital Website
 
 Welcome to the Nusrat Hospital website repository. This project showcases a modern, responsive hospital website designed to provide users with information about services, doctors, departments, appointments, and contact details.
 
+Nusrat Hospital live demo 
+[Visit Nusrat Hospital Live](https://admirable-tiramisu-dec472.netlify.app/)
 
 Table of Contents
 - Overview
@@ -43,6 +45,7 @@ Technologies Used
 
 Project Structure
 
+```plaintext
 ├── index.html - Main landing page
 ├── assets
 │ ├── css
@@ -56,10 +59,10 @@ Project Structure
 Installation
 
 1- Clone the repository:
-   git clone https://github.com/yourusername/nusrat-hospital.git
+   git clone [https://github.com/yourusername/nusrat-hospital.git](https://github.com/AutisticDev-max/Nusrat-hospital)
 
 2- Navigate to the project folder:
-cd nusrat-hospital
+cd Nusrat-hospital
 
 3- Open index.html in a web browser to view the website locally.
 
