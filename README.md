@@ -71,15 +71,16 @@ Submit appointment requests using the make appointment button.
 
 View hospital facilities and staff through the gallery and department sections.
 
+
 Contributing
 
 Contributions are welcome! You can:
 
--Improve styles and layout
+- Improve styles and layout
 
--Add new sections or features
+- Add new sections or features
 
--Fix bugs or optimize code
+- Fix bugs or optimize code
 
 Please fork the repository and create a pull request for review.
 
