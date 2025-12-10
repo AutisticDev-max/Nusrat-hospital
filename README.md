@@ -3,7 +3,7 @@ Nusrat Hospital Website
 Welcome to the Nusrat Hospital website repository. This project showcases a modern, responsive hospital website designed to provide users with information about services, doctors, departments, appointments, and contact details.
 
 Nusrat Hospital live demo 
-[Visit Nusrat Hospital Live](https://admirable-tiramisu-dec472.netlify.app/)
+[Visit Nusrat Hospital Live](https://nusrathospital-demo.netlify.app/)
 
 Table of Contents
 - Overview
